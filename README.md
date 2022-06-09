@@ -30,10 +30,6 @@
     <li>
         In order to use inputs for r,g,b color input value must be integer and between 0 and 255.Hex values are on read only mode.
     </li>
-    <li>
-      All required information is stored in a relational database (MSSQL, MySQL,
-      PostgreSQL).
-    </li>
     <li>The color picker is designed by Paint 3D.</li>
     <li>All performed operations can be viewed via a GUI(Python->PyQt5).</li>
   </ul>
@@ -60,11 +56,11 @@
          <li> Open the location where all the documents are located.</li>
          <li> Click the right button while pressing the Shift key.</li>
          <li> You can see "Open powershell window here" .</li>
-         <li> pyinstaller --onefile -w -i .\Brand.png .\_0BankApplication.py</li>
+         <li> pyinstaller --onefile -w -i .\palette.png .\palette.py</li>
          <li> Run this line of code with Shell.</li>
          <li> You can see executable file in dist folder in that folder</li>
       </ul>
-    <li>Run Main(_0BankApplication) file with IDE</li>
+    <li>Run Main(palette.py) file with IDE</li>
    </ol>
   </p>
   
