@@ -1,0 +1,32 @@
+from PyQt5.QtWidgets import (
+    QLineEdit,
+    QWidget,
+    QHBoxLayout,
+    QVBoxLayout,
+    QLabel,
+    QPushButton,
+    QFrame,
+    QGridLayout,
+    QSlider,
+    QMessageBox,
+    QApplicationi
+    QMainWindow,
+)
+
+from PyQt5.QtGui import (
+    QIcon,
+    QFont,
+    QPixmap,
+    QRegExpValidator,
+)
+from PyQt5.QtCore import (
+    Qt,
+    QSize,
+    QCoreApplication,
+    QMetaObject,
+    QRect,
+    QRegExp
+)
+
+res_rc_rc
+sys exit, argv
